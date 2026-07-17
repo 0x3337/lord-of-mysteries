@@ -1,4 +1,4 @@
-BOOKS := 01-клоун
+BOOKS := 01-клоун 02-безликий
 
 OUT := build/epub
 
